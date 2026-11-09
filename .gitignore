@@ -1,0 +1,39 @@
+# --- Python / Backend ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# --- Local Databases ---
+*.db
+*.sqlite3
+
+# --- Uploads & Temporary Data ---
+backend/uploads/*
+!backend/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# --- Node.js / Frontend ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+
+# --- Environment & Secret Files ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- IDE & Operating System Files ---
+.vscode/
+.DS_Store
+Thumbs.db
+ehthumbs.db

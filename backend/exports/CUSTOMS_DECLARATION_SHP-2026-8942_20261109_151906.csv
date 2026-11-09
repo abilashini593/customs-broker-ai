@@ -1,0 +1,27 @@
+--- FILING SUMMARY ---,
+System Specification,SINGLE WINDOW CUSTOMS AUTOMATION V4.2
+Message Type,IMPORT_BILL_OF_ENTRY
+Declaration Ref No,SHP-2026-8942
+Customs Broker Code,BRK-US-994182
+Filing Timestamp (UTC),2026-11-09T15:19:06.169096
+Digital Integrity Seal,3CC78B0F6A901F9D
+Submitting Role,Documentation Executive
+Authorized Signatory,John Doe
+Validation Status,Exported
+Exporter Name,"Shenzhen Precision Microelectronics Co., Ltd."
+Exporter Country,China
+Consignee Name,Apex Logistics Global LLC
+Consignee Country,United States
+Importer Tax ID (EIN),84-2918302
+Port of Loading,"Yantian (Shenzhen), CN"
+Port of Discharge,"Port of Los Angeles, US"
+Vessel Name,EVER GIVEN
+Voyage Number,0428-091W
+Invoice Number,INV-2026-CN-8841
+Invoice Grand Total,142500.00 USD
+
+--- LINE ITEMS SCHEDULE ---,,,,,,,,
+Item No,HSN Code,Commercial Description,Quantity,UOM,Unit Price,Total Amount,Currency,Status
+1,8542.31.00,High Performance ARM Cortex Microcontrollers (SMD-64),10000.0,PCS,4.5,45000.0,USD,CONFIRMED
+2,8534.00.00,Multi-layer PCB Rigid-Flex Board Assemblies,5000.0,PCS,12.2,61000.0,USD,CONFIRMED
+3,8542.32.00,High Speed NVMe Storage Flash Controller ICs,2500.0,PCS,14.6,36500.0,USD,CONFIRMED
